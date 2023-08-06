@@ -10,5 +10,7 @@ public class Demo
 	   System.out.println("hi this ia my first commit ");
 	   
 	   System.out.println("hello");
+	   
+	   System.out.println("hi");
    }
 }
